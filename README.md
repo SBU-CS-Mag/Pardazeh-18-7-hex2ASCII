@@ -1,2 +1,2 @@
-# 7-Phoenix-hex2ASCII
-&lt;DESCRIPTION>
+# hex2ASCII
+*And again, meaningless text...*
